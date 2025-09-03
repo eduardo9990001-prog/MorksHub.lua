@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SEUUSER/SEUREPO/main/MorksHub.lua"))()
